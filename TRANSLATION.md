@@ -110,14 +110,14 @@ Bu tür teknik belgelerde yaygın olarak kullanılan terimlerin çevirisi için 
 | attribute                 | özellik |
 | bug                       | hata |
 | bundler                   | paketleyici |
-| callback                  | callback |
+| callback                  | geri çağırma |
 | camelCase                 | camelCase |
 | child                     | alt / alt eleman |
 | controlled component      | kontrollü bileşen |
 | debugging                 | hata ayıklama |
 | DOM                       | DOM |
 | external                  | harici |
-| fragment                  | fragment |
+| fragment                  | kısım |
 | framework                 | çatı |
 | function component        | fonksiyon bileşeni |
 | hook                      | hook |
@@ -135,7 +135,7 @@ Bu tür teknik belgelerde yaygın olarak kullanılan terimlerin çevirisi için 
 | render                    | render etmek |
 | shallow rendering         | yüzeysel render'lama / render etme |
 | state                     | state |
-| string                    | string |
+| string                    | dizi |
 | template literals         | template literal'leri |
 | Try it on CodePen         | CodePen'de deneyin |
 | uncontrolled component    | kontrolsüz bileşen |
